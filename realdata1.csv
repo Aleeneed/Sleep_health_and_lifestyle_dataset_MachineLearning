@@ -1,0 +1,12 @@
+Gender,Age,Sleep Duration,Physical Activity Level,BMI Category,Daily Steps
+Male,28,7.5,75,Normal Weight,1000
+Male,28,5,50,Underweight,8000
+Male,28,6,30,Normal Weight,8000
+Female,20,3,70,Normal Weight,3000
+Female,20,5,70,Normal Weight,3000
+Female,20,7.5,70,Normal Weight,3000
+Male,28,8,75,Normal Weight,1000
+Male,28,8,50,Normal Weight,1000
+Female,20,5,50,Normal Weight,1000
+Female,20,7.5,50,Normal Weight,1000
+Female,20,7.5,75,Normal Weight,1000
